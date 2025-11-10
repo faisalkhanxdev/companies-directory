@@ -1,0 +1,354 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "name": "UrbanEdge Studios",
+      "location": "Bangalore",
+      "employees": 778,
+      "industry": "Education"
+    },
+    {
+      "id": "2",
+      "name": "GreenLeaf Technologies",
+      "location": "Chennai",
+      "employees": 178,
+      "industry": "Hospitality"
+    },
+    {
+      "id": "3",
+      "name": "FlowGrid",
+      "location": "Pune",
+      "employees": 70,
+      "industry": "Logistics"
+    },
+    {
+      "id": "4",
+      "name": "SparkMinds",
+      "location": "Kolkata",
+      "employees": 650,
+      "industry": "Manufacturing"
+    },
+    {
+      "id": "5",
+      "name": "EduVerse",
+      "location": "Kolkata",
+      "employees": 583,
+      "industry": "Healthcare"
+    },
+    {
+      "id": "6",
+      "name": "NeuraSoft",
+      "location": "Kolkata",
+      "employees": 737,
+      "industry": "Finance"
+    },
+    {
+      "id": "7",
+      "name": "CloudHive",
+      "location": "Kolkata",
+      "employees": 505,
+      "industry": "Hospitality"
+    },
+    {
+      "id": "8",
+      "name": "PrimeLink Solutions",
+      "location": "Hyderabad",
+      "employees": 222,
+      "industry": "Software"
+    },
+    {
+      "id": "9",
+      "name": "ClearPath Systems",
+      "location": "Pune",
+      "employees": 349,
+      "industry": "Healthcare"
+    },
+    {
+      "id": "10",
+      "name": "Visionary Creations",
+      "location": "Chennai",
+      "employees": 664,
+      "industry": "Software"
+    },
+    {
+      "id": "11",
+      "name": "CyberPulse",
+      "location": "Pune",
+      "employees": 918,
+      "industry": "Retail"
+    },
+    {
+      "id": "12",
+      "name": "NextGen Systems",
+      "location": "Kolkata",
+      "employees": 637,
+      "industry": "Logistics"
+    },
+    {
+      "id": "13",
+      "name": "NovaLogix",
+      "location": "Bangalore",
+      "employees": 328,
+      "industry": "Healthcare"
+    },
+    {
+      "id": "14",
+      "name": "QuantumWorks",
+      "location": "Delhi",
+      "employees": 927,
+      "industry": "Hospitality"
+    },
+    {
+      "id": "15",
+      "name": "OptiMind",
+      "location": "Ahmedabad",
+      "employees": 585,
+      "industry": "Education"
+    },
+    {
+      "id": "16",
+      "name": "HealthBridge",
+      "location": "Kolkata",
+      "employees": 965,
+      "industry": "Logistics"
+    },
+    {
+      "id": "17",
+      "name": "InsightWorks",
+      "location": "Hyderabad",
+      "employees": 953,
+      "industry": "Retail"
+    },
+    {
+      "id": "18",
+      "name": "FinEdge Group",
+      "location": "Delhi",
+      "employees": 935,
+      "industry": "Finance"
+    },
+    {
+      "id": "19",
+      "name": "PixelPeak Media",
+      "location": "Delhi",
+      "employees": 590,
+      "industry": "Education"
+    },
+    {
+      "id": "20",
+      "name": "InnoTech",
+      "location": "Chennai",
+      "employees": 684,
+      "industry": "Manufacturing"
+    },
+    {
+      "id": "21",
+      "name": "EcoSmart",
+      "location": "Ahmedabad",
+      "employees": 680,
+      "industry": "Manufacturing"
+    },
+    {
+      "id": "22",
+      "name": "UrbanMatrix",
+      "location": "Kolkata",
+      "employees": 426,
+      "industry": "Education"
+    },
+    {
+      "id": "23",
+      "name": "MetaFlow",
+      "location": "Kolkata",
+      "employees": 531,
+      "industry": "Software"
+    },
+    {
+      "id": "24",
+      "name": "RapidWave Industries",
+      "location": "Kolkata",
+      "employees": 344,
+      "industry": "Retail"
+    },
+    {
+      "id": "25",
+      "name": "VirtuWave",
+      "location": "Pune",
+      "employees": 820,
+      "industry": "Logistics"
+    },
+    {
+      "id": "26",
+      "name": "EverGrow Finance",
+      "location": "Mumbai",
+      "employees": 275,
+      "industry": "Finance"
+    },
+    {
+      "id": "27",
+      "name": "TrustNet",
+      "location": "Kolkata",
+      "employees": 734,
+      "industry": "Education"
+    },
+    {
+      "id": "28",
+      "name": "ThinkBridge",
+      "location": "Ahmedabad",
+      "employees": 670,
+      "industry": "Retail"
+    },
+    {
+      "id": "29",
+      "name": "TransEdge Logistics",
+      "location": "Kolkata",
+      "employees": 493,
+      "industry": "Manufacturing"
+    },
+    {
+      "id": "30",
+      "name": "Apex Innovations",
+      "location": "Delhi",
+      "employees": 761,
+      "industry": "Hospitality"
+    },
+    {
+      "id": "31",
+      "name": "OmniTrade",
+      "location": "Hyderabad",
+      "employees": 946,
+      "industry": "Retail"
+    },
+    {
+      "id": "32",
+      "name": "TechNova Solutions",
+      "location": "Chennai",
+      "employees": 635,
+      "industry": "Finance"
+    },
+    {
+      "id": "33",
+      "name": "BioNext Healthcare",
+      "location": "Hyderabad",
+      "employees": 292,
+      "industry": "Hospitality"
+    },
+    {
+      "id": "34",
+      "name": "DataSpring",
+      "location": "Pune",
+      "employees": 103,
+      "industry": "Retail"
+    },
+    {
+      "id": "35",
+      "name": "MegaVolt Systems",
+      "location": "Mumbai",
+      "employees": 251,
+      "industry": "Hospitality"
+    },
+    {
+      "id": "36",
+      "name": "AutoSphere",
+      "location": "Chennai",
+      "employees": 930,
+      "industry": "Healthcare"
+    },
+    {
+      "id": "37",
+      "name": "CoreVision IT",
+      "location": "Hyderabad",
+      "employees": 378,
+      "industry": "Manufacturing"
+    },
+    {
+      "id": "38",
+      "name": "BlueCore Retail",
+      "location": "Bangalore",
+      "employees": 183,
+      "industry": "Logistics"
+    },
+    {
+      "id": "39",
+      "name": "AeroByte",
+      "location": "Delhi",
+      "employees": 117,
+      "industry": "Education"
+    },
+    {
+      "id": "40",
+      "name": "BrightPath Logistics",
+      "location": "Pune",
+      "employees": 84,
+      "industry": "Manufacturing"
+    },
+    {
+      "id": "41",
+      "name": "SkyStone Builders",
+      "location": "Pune",
+      "employees": 766,
+      "industry": "Finance"
+    },
+    {
+      "id": "42",
+      "name": "AgriCore",
+      "location": "Ahmedabad",
+      "employees": 826,
+      "industry": "Healthcare"
+    },
+    {
+      "id": "43",
+      "name": "BlueSky Analytics",
+      "location": "Pune",
+      "employees": 723,
+      "industry": "Healthcare"
+    },
+    {
+      "id": "44",
+      "name": "FusionPoint Labs",
+      "location": "Pune",
+      "employees": 336,
+      "industry": "Retail"
+    },
+    {
+      "id": "45",
+      "name": "BrightLogic",
+      "location": "Ahmedabad",
+      "employees": 751,
+      "industry": "Logistics"
+    },
+    {
+      "id": "46",
+      "name": "Silverline Retail",
+      "location": "Mumbai",
+      "employees": 705,
+      "industry": "Education"
+    },
+    {
+      "id": "47",
+      "name": "MindShift",
+      "location": "Ahmedabad",
+      "employees": 530,
+      "industry": "Retail"
+    },
+    {
+      "id": "48",
+      "name": "AlphaWorks",
+      "location": "Delhi",
+      "employees": 202,
+      "industry": "Finance"
+    },
+    {
+      "id": "49",
+      "name": "SmartEdge",
+      "location": "Pune",
+      "employees": 987,
+      "industry": "Education"
+    },
+    {
+      "id": "50",
+      "name": "EcoStream",
+      "location": "Pune",
+      "employees": 238,
+      "industry": "Finance"
+    }
+  ]
+}
